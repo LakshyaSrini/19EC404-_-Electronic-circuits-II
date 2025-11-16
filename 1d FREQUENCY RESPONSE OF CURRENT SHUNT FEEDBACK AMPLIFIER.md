@@ -7,6 +7,12 @@
 <img width="739" height="1009" alt="image" src="https://github.com/user-attachments/assets/9d4f63ba-2773-4066-b188-795e6e646b6b" />
 
 # Circuit Diagram 
+
+![WhatsApp Image 2025-11-16 at 12 35 20 PM](https://github.com/user-attachments/assets/a2a8ab26-df2a-42b8-b1a7-883555166871)
+
+![WhatsApp Image 2025-11-16 at 12 35 21 PM (1)](https://github.com/user-attachments/assets/49ae1557-a5bb-43d4-9386-068701f7fb7c)
+
+
 # Without Feedback:
 <img width="699" height="528" alt="image" src="https://github.com/user-attachments/assets/3309ec67-7bbe-42aa-9ba7-69ebfcca687e" />
 
@@ -15,23 +21,22 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-16 at 12 35 21 PM](https://github.com/user-attachments/assets/2a3fafad-aaaa-408e-81e6-b7516172cba3)
 
 # Graph
 
-
-# Sample images 
-
+![WhatsApp Image 2025-11-16 at 12 35 22 PM](https://github.com/user-attachments/assets/bab86b13-c965-4591-9255-d50fcd4a4638)
 
 ### **Result**
 
 Thus the current shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1 = 25 Hz | f1'' = 250 Hz |
+| 2 | Upper cut-off frequency | f2 = 170 KHz | f2'' = 450 KHz |
+| 3 | Bandwidth | \( BW = fh - fl ) | \( BW = f'h - f'l = 447 KHz) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 26.51 dB) | \( A'{v(mid)} = 25.2 dB) |
+| 5 | Gain at half power point | G0 = 23.5 | G0'' = 22.54 |
 
 ---
 
